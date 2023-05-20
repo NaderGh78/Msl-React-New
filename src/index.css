@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+/* base styles */
+* {
+  margin: 0;
+  font-family: "Quicksand";
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #A0D9E6 #fff;
+}
+
+/* Works on Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 8px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #fff;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #A0D9E6;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+/* scroll to top button */
+.backToTop {
+  position: fixed;
+  bottom: 15px;
+  right: 20px;
+  z-index: 1;
+  transition: all .9s;
+  height: 40px;
+  width: 40px;
+  color: #333;
+  cursor: pointer;
+}
