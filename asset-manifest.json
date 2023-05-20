@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Msl-React-New/static/css/main.80f6996b.css",
+    "main.js": "/Msl-React-New/static/js/main.45fef927.js",
+    "index.html": "/Msl-React-New/index.html",
+    "main.80f6996b.css.map": "/Msl-React-New/static/css/main.80f6996b.css.map",
+    "main.45fef927.js.map": "/Msl-React-New/static/js/main.45fef927.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80f6996b.css",
+    "static/js/main.45fef927.js"
+  ]
+}
